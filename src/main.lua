@@ -51,6 +51,8 @@ end
  
 function love.update(dt)
 
+  if state == 1 then
+
   for i, enemy in ipairs(enemies) do
     enemy.y = enemy.y + (enemy.speed * dt)
     -- Verifica si el enemigo ha cruzado el borde inferior
@@ -66,7 +68,6 @@ function love.update(dt)
     end
   end
 
-  if state == 1 then
   timer = timer + dt
   if timer > spawn_rate then
     local enemy = { x = math.random(0, 600), y = 10, speed = 50, img = love.graphics.newImage("assets/images/enemy.png") }
