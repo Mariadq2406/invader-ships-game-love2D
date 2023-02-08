@@ -4,7 +4,7 @@ Juego hecho en LOVE2D usando chatGPT para traductores e intérpretes.
 - Maria Diaz 30.318.748
 - Juan Reginfo 28.456.703
 
-##Créditos
+## Créditos
 
 - Música: Mountain trials (https://www.youtube.com/watch?v=L_OYo2RS8iU), Game over (https://www.youtube.com/watch?v=br3OzOrARh4)
 
