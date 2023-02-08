@@ -6,7 +6,7 @@ Juego hecho en LOVE2D usando chatGPT para traductores e intérpretes.
 
 ## Créditos
 
--Pixel art hecho en Piskel
+- Pixel art hecho en Piskel
 - Música: Mountain trials (https://www.youtube.com/watch?v=L_OYo2RS8iU), Game over (https://www.youtube.com/watch?v=br3OzOrARh4)
 - Fuentes: Pixeled (https://www.dafont.com/es/pixeled.font)
 
